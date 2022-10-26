@@ -9,6 +9,8 @@
 # Reducer
 - 利用 reduce 以中心為 key 將記錄合併
 - 計算平均值，求出新的中心
-
+# Setup function
+- 需要
+- 抓出中心點並設置群數
 
 
