@@ -12,5 +12,7 @@
 # Setup function
 - 需要
 - 抓出中心點並設置群數
-
-
+# 結果
+- hadoop fs -cat kmeans/part-r-00000
+![k-means1](https://user-images.githubusercontent.com/56660879/198028831-0ac8469c-4b8c-4450-bad8-f4015677de54.jpg)
+![k-means2](https://user-images.githubusercontent.com/56660879/198028851-ff0b6b06-3aa0-4891-8ac5-041e5d85ebed.jpg)
