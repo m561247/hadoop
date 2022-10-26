@@ -109,6 +109,7 @@ public class Kmeans {
                     currentDistance += Math.pow(p - q, 2);
                 }
                 if(currentDistance<minDistance){
+		    minDistance = currentDistance;
                     index_min = i;
                 }
             }
